@@ -1,11 +1,20 @@
-// I worked on this challenge [by myself, with:]
+// I worked on this challenge by myself
  
-// For each mission, write the title as a comment. (Shown here). Also include pseudocode as a comment. 
-// Note: to make commenting easier, you can highlight the section you want to comment and hold 
-// command + / This will comment the line. 
- 
- 
- 
+//First mission
+
+this.moveDown();
+this.moveDown();
+this.moveRight();
+this.moveUp();
+this.moveUp();
+this.moveRight();
+this.moveRight();
+this.moveDown();
+this.moveDown();
+
+this.attackNearbyEnemy();
+
+//Mission 2
  
  
  
