@@ -1,20 +1,24 @@
 // I paired [by myself, with:] on this challenge.
-
+// 1. Alec Ashford
+// 2. Ronald Ishak
 
 
 
 // Pseudocode
-// 
-// 
-// 
-// 
+// 1. Make sure secretNumber is 7
+// 2. Make sure password is "just open the door"
+// 3. allowedIn should equal false
+// 4. members should be an array with array 0 being John, array 3 being Mary
 
 
 // __________________________________________
 // Write your code below.
 
 
-
+var secretNumber = 7;
+var password = "just open the door";
+var allowedIn = false;
+var members = ["John", "Alec", "Ronald", "Mary"];
 
 
 
@@ -101,4 +105,3 @@ assert(
   "The fourth element in the value of members should be 'Mary'.",
   "9. "
 )
-
