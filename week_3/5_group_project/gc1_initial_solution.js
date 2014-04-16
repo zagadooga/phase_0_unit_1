@@ -56,13 +56,3 @@ function theMedian2(arr) {
         return (arr[arr.length / 2] + arr[(arr.length / 2) + 1]) / 2;
     }
 }
-
-
-
-
-
-
-
-
-
-
