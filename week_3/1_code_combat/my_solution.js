@@ -92,7 +92,20 @@ this.moveXY(51, 21);
 this.say("Hey you!");
 this.moveXY(70, 10);
  
- 
+
+//Commanding followers
+
+//tell men to follow
+//move to place of danger
+//tell men to attack
+
+this.moveXY(49, 66);
+this.moveXY(60, 63);
+this.moveXY(75, 63);
+this.say("Hail, friends!");
+this.say("Follow!");
+moveXY(65, 44);
+this.say("attack!");
  
 // Reflection:
 // Write your reflection here.
