@@ -81,6 +81,16 @@ this.moveDown();
 this.moveRight();
 this.moveUp();
 this.moveRight();
+
+//Cowardly taunt
+
+//run out to within 35m of ogres
+//say something
+//run back to safety
+
+this.moveXY(51, 21);
+this.say("Hey you!");
+this.moveXY(70, 10);
  
  
  
