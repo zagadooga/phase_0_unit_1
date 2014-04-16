@@ -48,9 +48,39 @@ this.attackNearbyEnemy();
 
 
 //Taunt the guards
+
+//move right
+//attract ogre
+//tell phoebe to attack
+//tell phoebe to follow me
+//go right
+//go up
+//go right
+//attract ogres
+//go down
+//go right
+//go up
+//go right
  
- 
- 
+this.moveRight();
+this.bustDownDoor();
+this.moveRight();
+this.say("Hey there!");
+this.moveLeft();
+this.moveUp();
+this.say("Attack!");
+this.say("Follow me!");
+this.moveDown();
+this.moveRight();
+this.moveRight();
+this.moveUp();
+this.moveUp();
+this.moveRight();
+this.say("Hey there!");
+this.moveDown();
+this.moveRight();
+this.moveUp();
+this.moveRight();
  
  
  
