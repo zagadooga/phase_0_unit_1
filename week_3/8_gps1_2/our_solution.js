@@ -65,3 +65,8 @@ console.log(shooterMcGavin.quote === "Just stay out of my way... or you'll pay. 
 
 
 //  Your Reflection:
+
+//I found this to be a good exercise for solidifying the concepts of objects in javascript. I especially liked
+//learning about object templates. Working with a partner was rewarding (even if he was not quite as prepared as me) and
+//having the instructor on call was good for clarifying the questions and also for instilling in us the proper
+//conventions.
