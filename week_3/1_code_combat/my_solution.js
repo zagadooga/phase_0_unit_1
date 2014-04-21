@@ -108,4 +108,7 @@ moveXY(65, 44);
 this.say("attack!");
  
 // Reflection:
+
+//I found this challenge exceedingly frustrating, not because it was difficult (the challenges were generally pretty trivial), but because the website kept freezing my browser and having me force a restart. There was too much going on on the page at once, and my computer could not handle it. The challenges I completed, however, were fairly interesting. I’m still not totally convinced it is a very efficient method of learning javascript. It uses an interesting analogy for objects, but I found creating my own level to be of much more help understanding the object-oriented philosophy in javascript.
+
 // Write your reflection here.
