@@ -32,6 +32,16 @@ function theMean(arr) {
     return theSum(arr) / arr.length;
 }
 
+//While I found this challenge enjoyable, I did not learn too much from it as I had done similar things with javascript
+//before. Furthermore, while I don't think the multiple person model was very efficient for this challenge, I can
+//understand its utility in the context of a much large project. That said, I think it would be much simpler if we had
+//"modularized" the challenge, so that each one of the four people were working independently on one function from
+//beginning to end, and then testing each function to ensure that they worked properly, before putting them together. I
+//don't think it was efficient to have each person working on a different stage of development, as in one case, there was
+//an error in the pseudocode that would have been quickly apparent to the person that preceded me if they were writing the
+//code themselves. However, being bound to translate the code directly, it was my job to pass on code that didn't work
+//properly to the next person.
+
 
 //-----------------------------------------------------------
 // Function 3: Find the median of the array. For this excercise, if there is an even amount of 
